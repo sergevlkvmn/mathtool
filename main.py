@@ -1,4 +1,4 @@
-print ('Hello word')
+print ('Hello word!')
 
 a = 2
 b = 7
